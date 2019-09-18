@@ -1,3 +1,11 @@
+// ======================= ZoneTool =======================
+// zonetool, a fastfile linker for various
+// Call of Duty titles. 
+//
+// Project: https://github.com/ZoneTool/gsc-asm
+// Author: RektInator (https://github.com/RektInator)
+// License: GNU GPL v3.0
+// ========================================================
 #pragma once
 #define _CRT_SECURE_NO_WARNINGS
 

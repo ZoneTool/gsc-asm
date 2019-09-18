@@ -1,3 +1,11 @@
+// ======================= ZoneTool =======================
+// zonetool, a fastfile linker for various
+// Call of Duty titles. 
+//
+// Project: https://github.com/ZoneTool/gsc-asm
+// Author: RektInator (https://github.com/RektInator)
+// License: GNU GPL v3.0
+// ========================================================
 #define OP_SetNewLocalVariableFieldCached0		0x17
 #define OP_EvalSelfFieldVariable	0x18
 #define OP_Return					0x19
